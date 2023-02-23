@@ -1,0 +1,11 @@
+bin\Debug\Semana 1 - LP VI - Forms.exe
+bin\Debug\Semana 1 - LP VI - Forms.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Semana_1___LP_VI___Forms.Form1.resources
+obj\Debug\Semana_1___LP_VI___Forms.Properties.Resources.resources
+obj\Debug\Semana 1 - LP VI - Forms.csproj.GenerateResource.Cache
+obj\Debug\Semana 1 - LP VI - Forms.exe
+obj\Debug\Semana 1 - LP VI - Forms.pdb
+obj\Debug\Semana_1___LP_VI___Forms.Form2.resources
+obj\Debug\Semana_1___LP_VI___Forms.Form3.resources
+obj\Debug\Semana_1___LP_VI___Forms.Form_TiposDatos.resources
